@@ -9,7 +9,10 @@
 
   <p align="center">
     <samp>✨A TIC TAC TOE GAME, YOU PLAY WHEN YOU ARE BORED, WITH FRIENDS!✨</samp>
-    <br>
+    <br><br>
+  <img alt="Game size" src="https://img.shields.io/github/repo-size/atomlabx/Tic_Tac_Toe_Game?color=blue&label=Game%20size&style=for-the-badge">
+  <img alt="Repo top language" src="https://img.shields.io/github/languages/top/atomlabx/Tic_Tac_Toe_Game?color=important&style=for-the-badge">
+  <img alt="Game issues" src="https://img.shields.io/bitbucket/issues-raw/atomlabx/Tic_Tac_Toe_Game?color=important&style=for-the-badge">
     </p>
     
 
