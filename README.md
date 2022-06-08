@@ -5,10 +5,10 @@
     <img src="Demo/TicTacToe_Demo.gif" alt="Tic Tac Toe Game Demo">
   </a>
 
-  <h3 align="center">Tic Tac Toe</h3>
+  <h3 align="center">🕹Tic Tac Toe🕹</h3>
 
   <p align="center">
-    <samp>A TIC TAC TOE GAME, YOU PLAY WHEN YOU ARE BORED, WITH FRIENDS!</samp>
+    <samp>✨A TIC TAC TOE GAME, YOU PLAY WHEN YOU ARE BORED, WITH FRIENDS!✨</samp>
     <br>
     </p>
     
